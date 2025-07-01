@@ -18,10 +18,10 @@ I’m passionate about building scalable and maintainable web applications using
 
 🛠 Tech Stack & Tools
 
-Languages: JavaScript (ES6+), TypeScript, Python  
+Languages: JavaScript (ES6+), TypeScript, Python, C, C++
 Frontend: React, Redux, Tailwind CSS  
 Backend: Node.js, Express.js, REST APIs  
-Database: MongoDB, PostgreSQL  
+Database: MongoDB, MySQL  
 Testing: Jest, Cypress  
 DevOps: Docker, GitHub Actions, AWS basics  
 Tools: VSCode, Postman, Git, Figma
