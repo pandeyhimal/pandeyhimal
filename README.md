@@ -4,6 +4,7 @@
 
 
 
+
 🚀 About Me
 
 I’m passionate about building scalable and maintainable web applications using modern technologies. With a focus on the MERN stack, I enjoy solving complex problems and continuously improving through experimentation and collaboration.
@@ -28,6 +29,7 @@ Tools: VSCode, Postman, Git, Figma
 
 
 I believe that writing code is a form of communication — with machines, with fellow developers, and with myself. Every project is an opportunity to learn something new, make mistakes, and iterate toward better solutions.
+
 
 
 “Between zeros and ones, I search for infinite possibilities.”
