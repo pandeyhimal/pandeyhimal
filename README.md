@@ -2,6 +2,9 @@
 
 > "Code is not just what I write — it’s how I think, solve, and grow."
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI2MjR6MnM3cTF1aWp4OWd4ajFodGswdm5uaHk0ZXk5YmlscXp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="400" />
+</p>
 
 
 
